@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+@import url('https://fonts.googleapis.com/css?family=Exo');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');
+
+.btncont{
+  width:200px;
+  margin:auto;
+}
+h1{
+  text-align:center;
+  margin-bottom:25px;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.result{
+  font-family: 'Dancing Script', cursive;
+  font-size:35px;
+  margin-top: 25px;
+  margin-right:auto;
+  margin-left:auto;
+    width: 80%;
+  text-align: center;
+}
+button{
+  font-family: 'Exo', sans-serif;
+}
+body{
+  background-color:#E8F5E9;
+  background-image:url("https://images.unsplash.com/photo-1441107621285-05f256b47ce5?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=c6c9f31fbdb66694398c200cef678a91");
+  background-size:cover;
+  background-image:no-repeat;
+}
+#tweet-container{
+   width:200px;
+  margin:auto;
+}
