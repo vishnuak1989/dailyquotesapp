@@ -1,0 +1,2 @@
+# dailyquotesapp
+Daily Quote Generator
