@@ -1,3 +1,5 @@
 # dailyquotesapp
-Daily Quote Generator
-This App was created using HTML,CSS,JQuery,Bootstrap for FreeCodeCamp.
+<h1>Daily Quote Generator</h1>
+ This App was created using HTML,CSS,JQuery,Bootstrap.
+ <i>Acknowledgment</i>
+ API Used for fetching random quotes : https://api.forismatic.com/api/1.0/
